@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "categoria": "JavaScript",
+      "title": "ARRAY Y SUS METODOS",
+      "descripBlogs": "Los arrays son objetos similares a una lista cuyo prototipo proporciona método para efectuar operaciones de recorrido y de mutación...",
+      "imgBlogs": "programacion",
+      "color": "#FF8D29",
+      "linkBlogs": "/array_y_metodos"
+    },
+    {
+      "id": 2,
+      "categoria": "javascript",
+      "title": "ARRAY ",
+      "descripBlogs": "Los arrays son objetos similares a una lista cuyo prototipo ",
+      "imgBlogs": "",
+      "color": "#23dd98",
+      "linkBlogs": "/array_y_metodos"
+    }
+]

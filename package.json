@@ -1,0 +1,23 @@
+{
+  "name": "json_blogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "json-server --watch db.json",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "json-server": "^0.17.0",
+    "morgan": "^1.10.0",
+    "underscore": "^1.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
