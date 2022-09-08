@@ -1,3 +1,4 @@
+
 {
   "posts": [
     {
@@ -5,29 +6,10 @@
       "categoria": "JavaScript",
       "title": "ARRAY Y SUS METODOS",
       "descripBlogs": "Los arrays son objetos similares a una lista cuyo prototipo proporciona método para efectuar operaciones de recorrido y de mutación...",
-      "imgBlogs": "programacion",
+      "imgBlogs": "img1",
       "color": "#FF8D29",
       "linkBlogs": "/array_y_metodos",
       "containerId": 1
-    },
-    {
-      "id": 2,
-      "categoria": "javascript",
-      "title": "ARRAY ",
-      "descripBlogs": "Los arrays son objetos similares a una lista cuyo prototipo ",
-      "imgBlogs": "",
-      "color": "#23dd98",
-      "linkBlogs": "/array_y_metodos"
-    },
-    {
-      "id": 3,
-      "categoria": "React",
-      "title": "ARRAY Y SUS METODOS",
-      "descripBlogs": "Los arrays son objetos similares a una lista cuyo prototipo proporciona método para efectuar operaciones de recorrido y de mutación...",
-      "imgBlogs": "programacion",
-      "color": "#FF8D29",
-      "linkBlogs": "/array_y_metodos",
-      "containerId": 2
     }
   ],
   "container": [
@@ -35,11 +17,6 @@
       "id": 1,
       "body": "todo contenido de javascript con sus array y demas",
       "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "se crea a partir de ",
-      "postId": 2
     }
   ]
 }
