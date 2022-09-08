@@ -8,15 +8,24 @@
       "descripBlogs": "Los arrays son objetos similares a una lista cuyo prototipo proporciona método para efectuar operaciones de recorrido y de mutación...",
       "imgBlogs": "https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg",
       "color": "#FF8D29",
-      "linkBlogs": "/array_y_metodos",
-      "containerId": 1
+      "linkBlogs": "/array_y_metodos"
     }
   ],
-  "container": [
+  "proyects": [
     {
-      "id": 1,
-      "body": "todo contenido de javascript con sus array y demas",
-      "postId": 1
+      "id" : 1,
+      "img": "./assets/image/imgProyectos/rfa-mp3.png",
+      "link" : "https://reproductor-mp3.netlify.app"
+    },
+    {
+      "id": 2,
+      "img": "../assets/image/imgProyectos/toky tienda.png",
+      "link": "https://compra-carrito.netlify.app"
+    },
+    {
+      "id": 3,
+      "img": "../assets/image/imgProyectos/ContainerTodos.png",
+      "link": "https://dadmax10.github.io/ControllerTodos/"
     }
   ]
 }
