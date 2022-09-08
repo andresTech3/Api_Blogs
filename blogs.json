@@ -19,12 +19,12 @@
     },
     {
       "id": 2,
-      "img": "../assets/image/imgProyectos/toky tienda.png",
+      "img": "./assets/image/imgProyectos/toky tienda.png",
       "link": "https://compra-carrito.netlify.app"
     },
     {
       "id": 3,
-      "img": "../assets/image/imgProyectos/ContainerTodos.png",
+      "img": "./assets/image/imgProyectos/ContainerTodos.png",
       "link": "https://dadmax10.github.io/ControllerTodos/"
     }
   ]
