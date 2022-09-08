@@ -6,7 +6,7 @@
       "categoria": "JavaScript",
       "title": "ARRAY Y SUS METODOS",
       "descripBlogs": "Los arrays son objetos similares a una lista cuyo prototipo proporciona método para efectuar operaciones de recorrido y de mutación...",
-      "imgBlogs": "./img/img-1.jpg",
+      "imgBlogs": "../img/img-1.jpg",
       "color": "#FF8D29",
       "linkBlogs": "/array_y_metodos",
       "containerId": 1
