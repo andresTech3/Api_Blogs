@@ -5,8 +5,7 @@
       "id": 1,
       "categoria": "JavaScript",
       "title": "ARRAY Y SUS METODOS",
-      "descripBlogs": "Los arrays son objetos similares a una lista cuyo prototipo proporciona método para efectuar operaciones de recorrido y de mutación...",
-      "imgBlogs": "https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg",
+      "descripBlogs": "Los arrays son objetos similares a una lista cuyo prototipo proporciona método para efectuar operaciones de recorrido y de ",
       "color": "#FF8D29",
       "linkBlogs": "/array_y_metodos"
     }
@@ -14,17 +13,17 @@
   "proyects": [
     {
       "id" : 1,
-      "img": "./assets/image/imgProyectos/rfa-mp3.png",
+      "img": "https://drive.google.com/uc?export=download&id=1iTji7RXyUGaB77MjBYuMFJSUcATL22if",
       "link" : "https://reproductor-mp3.netlify.app"
     },
     {
       "id": 2,
-      "img": "./assets/image/imgProyectos/toky tienda.png",
+      "img": "https://drive.google.com/uc?export=download&id=1KCQ-g1PgoTFklohoJqfadVrfAEIUOFwy",
       "link": "https://compra-carrito.netlify.app"
     },
     {
       "id": 3,
-      "img": "./assets/image/imgProyectos/ContainerTodos.png",
+      "img": "https://drive.google.com/uc?export=download&id=1U0IMarNxaVqt9wYMr7Cc5vAczrupHj8m",
       "link": "https://dadmax10.github.io/ControllerTodos/"
     }
   ]
